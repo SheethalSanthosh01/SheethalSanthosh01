@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SheethalSanthosh01
-- 👀 I’m interested in Data Science
-- 🌱 I currently completed course in python for Data Science 
-- 💞️ I’m looking to collaborate on Deep Learning
+- 👀 I’m interested in Data Science, AWS, Devops
+- 🌱 I currently completed course in AWS and Devops 
+- 💞️ I’m looking to collaborate on AWS and Devops
 - 📫 How to reach me sheethalsanthosh2017@gmail.com
 
 <!---
