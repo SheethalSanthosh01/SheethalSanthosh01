@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, AWS, Devops
 - 🌱 I currently completed course in AWS and Devops 
 - 💞️ I’m looking to collaborate on AWS and Devops
-- 📫 How to reach me sheethalsanthosh2017@gmail.com
+- 📫 How to reach me gujjarsheethal@gmail.com
 
 <!---
 SheethalSanthosh01/SheethalSanthosh01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
